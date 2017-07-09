@@ -1,4 +1,4 @@
-squareSpiral
+Square Spiral
 ============
 
 Given the following square spiral below, write a program that displays the coordinates (x, y) of a given point provided for an input n. Implement two distinct algorithms that run in the worst case: 
